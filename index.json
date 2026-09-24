@@ -310,8 +310,8 @@
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animasu",
     "apk": "aniyomi-id-animasu.apk",
     "lang": "id",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -319,7 +319,7 @@
       {
         "name": "Animasu",
         "lang": "id",
-        "id": "2063518851741513998",
+        "id": "5800813607693873141",
         "baseUrl": "",
         "versionId": 1
       }
@@ -663,7 +663,7 @@
       {
         "name": "AnimeIndo",
         "lang": "id",
-        "id": "6151426276118666182",
+        "id": "4232209723152613211",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2797,7 +2797,7 @@
       {
         "name": "Kuronime",
         "lang": "id",
-        "id": "5338239165972766040",
+        "id": "4324203031266758238",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3033,7 +3033,7 @@
       {
         "name": "MiniOppai",
         "lang": "id",
-        "id": "6516992924542756901",
+        "id": "5093455293330348763",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3522,7 +3522,7 @@
       {
         "name": "NimeGami",
         "lang": "id",
-        "id": "5627317629471716038",
+        "id": "4150617219356971719",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3648,8 +3648,8 @@
     "pkg": "eu.kanade.tachiyomi.animeextension.id.otakudesu",
     "apk": "aniyomi-id-otakudesu.apk",
     "lang": "id",
-    "code": 45,
-    "version": "14.45",
+    "code": 46,
+    "version": "14.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3657,7 +3657,7 @@
       {
         "name": "OtakuDesu",
         "lang": "id",
-        "id": "1810305358495438540",
+        "id": "7223211640394738717",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3939,17 +3939,19 @@
   {
     "name": "Aniyomi: Samehadaku",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
-    "apk": "aniyomi-id.samehadaku-v14.10.apk",
+    "apk": "aniyomi-id-samehadaku.apk",
     "lang": "id",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Samehadaku",
         "lang": "id",
-        "id": "7446063017613536202",
-        "baseUrl": "https://v2.samehadaku.how",
+        "id": "7886201557635757576",
+        "baseUrl": "",
         "versionId": 1
       }
     ]
