@@ -310,8 +310,8 @@
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animasu",
     "apk": "aniyomi-id-animasu.apk",
     "lang": "id",
-    "code": 13,
-    "version": "14.13",
+    "code": 14,
+    "version": "14.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -319,7 +319,7 @@
       {
         "name": "Animasu",
         "lang": "id",
-        "id": "3254611604986530209",
+        "id": "2691953473883450873",
         "baseUrl": "",
         "versionId": 1
       }
@@ -654,8 +654,8 @@
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeindo",
     "apk": "aniyomi-id-animeindo.apk",
     "lang": "id",
-    "code": 30,
-    "version": "14.30",
+    "code": 25,
+    "version": "14.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -663,7 +663,7 @@
       {
         "name": "AnimeIndo",
         "lang": "id",
-        "id": "67150442214842573",
+        "id": "4759569479712555599",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2653,7 +2653,7 @@
       {
         "name": "KaitoAni",
         "lang": "id",
-        "id": "3575314872573800846",
+        "id": "4118176440402665963",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2817,7 +2817,7 @@
       {
         "name": "Kuronime",
         "lang": "id",
-        "id": "5673978641107745948",
+        "id": "7810772845494747670",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3053,7 +3053,7 @@
       {
         "name": "MiniOppai",
         "lang": "id",
-        "id": "86478963704389358",
+        "id": "447862569735439835",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3542,7 +3542,7 @@
       {
         "name": "NimeGami",
         "lang": "id",
-        "id": "4020013398361056504",
+        "id": "5635231847650668158",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3580,7 +3580,7 @@
       {
         "name": "NontonHentai",
         "lang": "id",
-        "id": "5863498847420346369",
+        "id": "8677161673916648645",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3697,7 +3697,7 @@
       {
         "name": "OtakuDesu",
         "lang": "id",
-        "id": "3279236459611142240",
+        "id": "5276238703595500801",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3990,7 +3990,7 @@
       {
         "name": "Samehadaku",
         "lang": "id",
-        "id": "1924491627630868306",
+        "id": "7486413665954280028",
         "baseUrl": "",
         "versionId": 1
       }
