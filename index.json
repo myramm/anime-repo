@@ -319,7 +319,7 @@
       {
         "name": "Animasu",
         "lang": "id",
-        "id": "6889618981648164666",
+        "id": "8818260230856660148",
         "baseUrl": "",
         "versionId": 1
       }
@@ -663,7 +663,7 @@
       {
         "name": "AnimeIndo",
         "lang": "id",
-        "id": "8163958374320116636",
+        "id": "6030584384599137114",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2797,7 +2797,7 @@
       {
         "name": "Kuronime",
         "lang": "id",
-        "id": "5290865041744768928",
+        "id": "5500735000429913836",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3033,7 +3033,7 @@
       {
         "name": "MiniOppai",
         "lang": "id",
-        "id": "2945247883158034803",
+        "id": "4401100822155750378",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3522,7 +3522,7 @@
       {
         "name": "NimeGami",
         "lang": "id",
-        "id": "5240256298234921681",
+        "id": "5188491800525872682",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3657,7 +3657,7 @@
       {
         "name": "OtakuDesu",
         "lang": "id",
-        "id": "6516442501862423402",
+        "id": "7784757776318784108",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3941,8 +3941,8 @@
     "pkg": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
     "apk": "aniyomi-id-samehadaku.apk",
     "lang": "id",
-    "code": 12,
-    "version": "14.12",
+    "code": 13,
+    "version": "14.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3950,7 +3950,7 @@
       {
         "name": "Samehadaku",
         "lang": "id",
-        "id": "4375868426814076823",
+        "id": "6062257826100633936",
         "baseUrl": "",
         "versionId": 1
       }
