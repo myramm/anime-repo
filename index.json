@@ -319,7 +319,7 @@
       {
         "name": "Animasu",
         "lang": "id",
-        "id": "6876665107392736801",
+        "id": "4737884698815014317",
         "baseUrl": "",
         "versionId": 1
       }
@@ -663,7 +663,7 @@
       {
         "name": "AnimeIndo",
         "lang": "id",
-        "id": "6099899889063940964",
+        "id": "4083191812239609044",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2640,6 +2640,26 @@
     ]
   },
   {
+    "name": "Aniyomi: KaitoAni",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.kaitoani",
+    "apk": "aniyomi-id-kaitoani.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KaitoAni",
+        "lang": "id",
+        "id": "2226108554810648005",
+        "baseUrl": "",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Katanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.katanime",
     "apk": "aniyomi-es.katanime-v14.23.apk",
@@ -2797,7 +2817,7 @@
       {
         "name": "Kuronime",
         "lang": "id",
-        "id": "1291527819851189842",
+        "id": "2704477775260185020",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3033,7 +3053,7 @@
       {
         "name": "MiniOppai",
         "lang": "id",
-        "id": "3146597253906873337",
+        "id": "3654420314139312818",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3522,7 +3542,7 @@
       {
         "name": "NimeGami",
         "lang": "id",
-        "id": "6530613864509666411",
+        "id": "1188039181237903562",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3657,7 +3677,7 @@
       {
         "name": "OtakuDesu",
         "lang": "id",
-        "id": "7755244314845338955",
+        "id": "4890361834749660031",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3950,7 +3970,7 @@
       {
         "name": "Samehadaku",
         "lang": "id",
-        "id": "8485860601131200796",
+        "id": "5231915954796705884",
         "baseUrl": "",
         "versionId": 1
       }
