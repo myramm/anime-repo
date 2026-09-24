@@ -310,8 +310,8 @@
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animasu",
     "apk": "aniyomi-id-animasu.apk",
     "lang": "id",
-    "code": 12,
-    "version": "14.12",
+    "code": 13,
+    "version": "14.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -319,7 +319,7 @@
       {
         "name": "Animasu",
         "lang": "id",
-        "id": "528407306110881017",
+        "id": "3254611604986530209",
         "baseUrl": "",
         "versionId": 1
       }
@@ -663,7 +663,7 @@
       {
         "name": "AnimeIndo",
         "lang": "id",
-        "id": "7105857118675293475",
+        "id": "67150442214842573",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2653,7 +2653,7 @@
       {
         "name": "KaitoAni",
         "lang": "id",
-        "id": "8710615828547689664",
+        "id": "3575314872573800846",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2817,7 +2817,7 @@
       {
         "name": "Kuronime",
         "lang": "id",
-        "id": "1229880865880163262",
+        "id": "5673978641107745948",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3053,7 +3053,7 @@
       {
         "name": "MiniOppai",
         "lang": "id",
-        "id": "6208754506328396519",
+        "id": "86478963704389358",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3542,7 +3542,7 @@
       {
         "name": "NimeGami",
         "lang": "id",
-        "id": "884209558012719458",
+        "id": "4020013398361056504",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3580,7 +3580,7 @@
       {
         "name": "NontonHentai",
         "lang": "id",
-        "id": "728187923523164625",
+        "id": "5863498847420346369",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3697,7 +3697,7 @@
       {
         "name": "OtakuDesu",
         "lang": "id",
-        "id": "698629872410861732",
+        "id": "3279236459611142240",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3990,7 +3990,7 @@
       {
         "name": "Samehadaku",
         "lang": "id",
-        "id": "7813844837480925658",
+        "id": "1924491627630868306",
         "baseUrl": "",
         "versionId": 1
       }
