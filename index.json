@@ -54,6 +54,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Alqanime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.alqanime",
+    "apk": "aniyomi-id-alqanime.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Alqanime",
+        "lang": "id",
+        "id": "2481348591435740270",
+        "baseUrl": "",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AniDB",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anidb",
     "apk": "aniyomi-en.anidb-v14.5.apk",
@@ -319,7 +339,7 @@
       {
         "name": "Animasu",
         "lang": "id",
-        "id": "1472867708258696326",
+        "id": "1918248358419753911",
         "baseUrl": "",
         "versionId": 1
       }
@@ -645,26 +665,6 @@
         "lang": "es",
         "id": "3757015232925755985",
         "baseUrl": "https://www.animeid.tv/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: AnimeIndo",
-    "pkg": "eu.kanade.tachiyomi.animeextension.id.animeindo",
-    "apk": "aniyomi-id-animeindo.apk",
-    "lang": "id",
-    "code": 32,
-    "version": "14.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimeIndo",
-        "lang": "id",
-        "id": "6461841530356992551",
-        "baseUrl": "",
         "versionId": 1
       }
     ]
@@ -1556,6 +1556,26 @@
         "lang": "es",
         "id": "5750872840863097496",
         "baseUrl": "https://asialiveaction.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Astronime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.astronime",
+    "apk": "aniyomi-id-astronime.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Astronime",
+        "lang": "id",
+        "id": "793425693493178905",
+        "baseUrl": "",
         "versionId": 1
       }
     ]
@@ -2653,7 +2673,7 @@
       {
         "name": "KaitoAni",
         "lang": "id",
-        "id": "5450581521427967885",
+        "id": "3922065865565494526",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2817,7 +2837,7 @@
       {
         "name": "Kuronime",
         "lang": "id",
-        "id": "6780562423866684873",
+        "id": "5366416786996300860",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2986,6 +3006,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Meownime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.meownime",
+    "apk": "aniyomi-id-meownime.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Meownime",
+        "lang": "id",
+        "id": "6150063419755252979",
+        "baseUrl": "",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: MetroSeries",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.metroseries",
     "apk": "aniyomi-es.metroseries-v14.33.apk",
@@ -3053,7 +3093,7 @@
       {
         "name": "MiniOppai",
         "lang": "id",
-        "id": "9119508303004953405",
+        "id": "3196259715269039704",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3542,7 +3582,7 @@
       {
         "name": "NimeGami",
         "lang": "id",
-        "id": "1518125248684915974",
+        "id": "7271407288375732137",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3567,6 +3607,26 @@
     ]
   },
   {
+    "name": "Aniyomi: NontonAnimeID",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonanimeid",
+    "apk": "aniyomi-id-nontonanimeid.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NontonAnimeID",
+        "lang": "id",
+        "id": "1015578874290944269",
+        "baseUrl": "",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: NontonHentai",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonhentai",
     "apk": "aniyomi-id-nontonhentai.apk",
@@ -3580,7 +3640,7 @@
       {
         "name": "NontonHentai",
         "lang": "id",
-        "id": "2944282823485398761",
+        "id": "5567208329350509191",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3697,7 +3757,7 @@
       {
         "name": "OtakuDesu",
         "lang": "id",
-        "id": "7276081427902812327",
+        "id": "6013124203653415777",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3990,7 +4050,7 @@
       {
         "name": "Samehadaku",
         "lang": "id",
-        "id": "1968767781268069292",
+        "id": "4014153221175465217",
         "baseUrl": "",
         "versionId": 1
       }
