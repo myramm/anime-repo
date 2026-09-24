@@ -310,8 +310,8 @@
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animasu",
     "apk": "aniyomi-id-animasu.apk",
     "lang": "id",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -319,7 +319,7 @@
       {
         "name": "Animasu",
         "lang": "id",
-        "id": "8708346042653578352",
+        "id": "7871458805965643053",
         "baseUrl": "",
         "versionId": 1
       }
@@ -663,7 +663,7 @@
       {
         "name": "AnimeIndo",
         "lang": "id",
-        "id": "5546625394542986988",
+        "id": "255584089876862191",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2797,7 +2797,7 @@
       {
         "name": "Kuronime",
         "lang": "id",
-        "id": "2854077178169098794",
+        "id": "4651840875020918190",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3033,7 +3033,7 @@
       {
         "name": "MiniOppai",
         "lang": "id",
-        "id": "9091045414451045966",
+        "id": "2718625748228554730",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3522,7 +3522,7 @@
       {
         "name": "NimeGami",
         "lang": "id",
-        "id": "7267972553970535275",
+        "id": "3723836991141048914",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3657,7 +3657,7 @@
       {
         "name": "OtakuDesu",
         "lang": "id",
-        "id": "1350873403460470988",
+        "id": "5527602809111166167",
         "baseUrl": "",
         "versionId": 1
       }
