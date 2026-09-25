@@ -67,7 +67,7 @@
       {
         "name": "Alqanime",
         "lang": "id",
-        "id": "6256222794458188482",
+        "id": "98844994663085091",
         "baseUrl": "",
         "versionId": 1
       }
@@ -339,7 +339,7 @@
       {
         "name": "Animasu",
         "lang": "id",
-        "id": "4148905100254054119",
+        "id": "1119641198846233332",
         "baseUrl": "",
         "versionId": 1
       }
@@ -1565,8 +1565,8 @@
     "pkg": "eu.kanade.tachiyomi.animeextension.id.astronime",
     "apk": "aniyomi-id-astronime.apk",
     "lang": "id",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1574,7 +1574,7 @@
       {
         "name": "Astronime",
         "lang": "id",
-        "id": "1757533209518954973",
+        "id": "3864813178343282558",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2673,7 +2673,7 @@
       {
         "name": "KaitoAni",
         "lang": "id",
-        "id": "5559793812304379911",
+        "id": "1349632121137403310",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2819,7 +2819,7 @@
       {
         "name": "Kuramanime",
         "lang": "id",
-        "id": "3221807962302218904",
+        "id": "4281697987391603356",
         "baseUrl": "",
         "versionId": 1
       }
@@ -2839,7 +2839,7 @@
       {
         "name": "Kuronime",
         "lang": "id",
-        "id": "6680218527325676280",
+        "id": "8223285454973180610",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3021,7 +3021,7 @@
       {
         "name": "Meownime",
         "lang": "id",
-        "id": "8903021661358758451",
+        "id": "3829795736553516531",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3095,7 +3095,7 @@
       {
         "name": "MiniOppai",
         "lang": "id",
-        "id": "5510191465205502913",
+        "id": "7717852826437616873",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3584,7 +3584,7 @@
       {
         "name": "NimeGami",
         "lang": "id",
-        "id": "4329965673395529310",
+        "id": "4640913440565750403",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3622,7 +3622,7 @@
       {
         "name": "NontonAnimeID",
         "lang": "id",
-        "id": "3271181316343634293",
+        "id": "4707991510554100514",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3642,7 +3642,7 @@
       {
         "name": "NontonHentai",
         "lang": "id",
-        "id": "2811753311059046431",
+        "id": "9017744376692175063",
         "baseUrl": "",
         "versionId": 1
       }
@@ -3759,7 +3759,7 @@
       {
         "name": "OtakuDesu",
         "lang": "id",
-        "id": "815078690871849287",
+        "id": "1851486258463622286",
         "baseUrl": "",
         "versionId": 1
       }
@@ -4052,7 +4052,7 @@
       {
         "name": "Samehadaku",
         "lang": "id",
-        "id": "3638591023782148208",
+        "id": "981163472805202572",
         "baseUrl": "",
         "versionId": 1
       }
